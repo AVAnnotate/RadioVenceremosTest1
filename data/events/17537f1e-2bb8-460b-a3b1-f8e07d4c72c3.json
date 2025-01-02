@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "469f4211-9766-467e-86ab-d016b0f7f7b3": {
+      "label": "26 de Mayo, 1981 - AM",
+      "is_offline": false,
+      "file_url": "https://ia801607.us.archive.org/26/items/198105246-a/19810524A.mp3",
+      "duration": 2781
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "26 de Mayo, 1981- AM ",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "YES Reached"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-01-02T19:02:49.628Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-01-02T19:02:49.628Z",
+  "updated_by": "jackDeVry"
+}
