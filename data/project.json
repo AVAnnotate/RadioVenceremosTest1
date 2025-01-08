@@ -18,8 +18,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "absempere",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "login_name": "ajolipa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
         "admin": false
       }
     ],
@@ -634,7 +634,7 @@
       ]
     },
     "created_at": "2025-01-02T19:00:38.008Z",
-    "updated_at": "2025-01-03T00:07:36.684Z",
+    "updated_at": "2025-01-08T14:32:31.423Z",
     "generate_pages_site": false
   },
   "is_private": true
