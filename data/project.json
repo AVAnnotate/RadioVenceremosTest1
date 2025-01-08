@@ -16,13 +16,7 @@
     "authors": "tanyaclement",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "ajolipa",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -634,7 +628,7 @@
       ]
     },
     "created_at": "2025-01-02T19:00:38.008Z",
-    "updated_at": "2025-01-08T14:32:31.423Z",
+    "updated_at": "2025-01-08T17:58:56.901Z",
     "generate_pages_site": false
   },
   "is_private": true
